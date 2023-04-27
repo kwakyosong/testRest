@@ -1,27 +1,14 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "제목 1"
-    },
-    {
-      "id": 2,
-      "title": "제목 2"
-    }
+    { "id": 1, "title": "제목 111" },
+    { "id": 2, "title": "제목 222" },
+    { "id": 3, "title": "제목 333" }
   ],
   "comments": [
-    {
-      "id": 1,
-      "body": "코멘트 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "코멘트 2",
-      "postId": 1
-    }
+    { "id": 1, "body": "코멘트 1", "postId": 1 },
+    { "id": 2, "body": "코멘트 2", "postId": 1 }
   ],
   "profile": {
-    "name": "곽여송"
+    "name": "kwakyosong"
   }
 }
